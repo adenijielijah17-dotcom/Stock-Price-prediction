@@ -81,11 +81,10 @@ Example evaluation metrics:
 
 | Metric | Value |
 |---------|-------|
-| MAE | XX |
-| RMSE | XX |
-| R² Score | XX |
+| MAE | 9.803 |
+| RMSE | 10.613 |
+| R² Score | 0.739 |
 
-*(Replace the values with your model's actual results.)*
 
 ---
 
